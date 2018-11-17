@@ -28,7 +28,7 @@ li {
 }
 
 .main {
-  padding: 300px 80px;
+  padding: 100px 80px;
 }
 
 .copy-container h1 {
@@ -44,7 +44,7 @@ li {
 }
 
 .contents {
-  height: 500px;
+  height: 1500px;
   /* margin-topを100pxにしてください */
   margin-top:100px;
   
